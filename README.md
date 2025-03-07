@@ -1,3 +1,6 @@
+# virus testing a built EXE
+virus total: https://www.virustotal.com/gui/file/6cef978d5ed03cd0f0dabea6cc6f55dfb8d5af20651349da13693c5b7b4bd3a1?nocache=1
+Triage: https://tria.ge/250307-dj1qdatl18/behavioral1
 # USE AT YOUR OWN RISK, OWNER IS NOT RESPONSABLE FOR ANY ACTIONS TAKEN
 # THIS IS MADE FOR EDUCATIONAL AND RECOVERY PURPOSES ONLY
 
