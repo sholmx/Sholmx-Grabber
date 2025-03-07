@@ -31,4 +31,4 @@ Yes as of now, give me a day or two
 ![image](https://github.com/user-attachments/assets/ff14a909-1c0b-4b5d-a580-fd2ecc194a76)
 
 # --DEVLOGS--
--im hoping to release this FRIDAY 3/7/25 AT 4PM EST
+-im hoping to release this SATURDAY 3/8/25 AT 4PM EST
