@@ -18,5 +18,13 @@
 ![image](https://github.com/user-attachments/assets/dafc6083-04a2-4d9f-8f7d-355b4fa10a6a)
 
 
+
+# IS IT DETECTED?
+No! it is not detected
+
+![image](https://github.com/user-attachments/assets/9783501c-f82e-43db-a8ea-34e08f5cbc3d)
+
+![image](https://github.com/user-attachments/assets/ff14a909-1c0b-4b5d-a580-fd2ecc194a76)
+
 # --DEVLOGS--
 -im hoping to release this SATURDAY 3/8/25
