@@ -12,7 +12,8 @@
 - PASSWORDS
 - DISCORD TOKENS
 - AND MANY MORE! AND MORE TO COME IN FUTURE UPDATES!
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/dafc6083-04a2-4d9f-8f7d-355b4fa10a6a)
+
 
 # --DEVLOGS--
 -im hoping to release this SATURDAY 3/8/25
