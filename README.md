@@ -11,6 +11,9 @@
 - SCREEN
 - PASSWORDS
 - DISCORD TOKENS
+- LOCATION
+- IP
+- TOKEN TESTER
 - AND MANY MORE! AND MORE TO COME IN FUTURE UPDATES!
 ![image](https://github.com/user-attachments/assets/dafc6083-04a2-4d9f-8f7d-355b4fa10a6a)
 
