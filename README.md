@@ -31,4 +31,4 @@ No! it is not detected
 ![image](https://github.com/user-attachments/assets/ff14a909-1c0b-4b5d-a580-fd2ecc194a76)
 
 # --DEVLOGS--
--im hoping to release this SATURDAY 3/8/25
+-im hoping to release this FRIDAY 3/7/25 AT 4PM EST
