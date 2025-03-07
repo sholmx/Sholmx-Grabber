@@ -24,7 +24,7 @@ Triage: https://tria.ge/250307-dj1qdatl18/behavioral1
 
 
 # IS IT DETECTED?
-No! it is not detected
+Yes as of now, give me a day or two
 
 ![image](https://github.com/user-attachments/assets/9783501c-f82e-43db-a8ea-34e08f5cbc3d)
 
