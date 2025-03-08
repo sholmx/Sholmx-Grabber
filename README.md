@@ -21,7 +21,7 @@
 
 
 # IS IT DETECTED?
-Yes as of now, give me a day or two
+It is not detected on triage, any.run, or uncoverit, however im still working to make it less detectable on AV softwares!
 
 ![image](https://github.com/user-attachments/assets/9783501c-f82e-43db-a8ea-34e08f5cbc3d)
 
